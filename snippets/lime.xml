@@ -98,6 +98,7 @@
 
   <!-- General -->
   <project path="art" name="art" remote="lime" />
+  <project path="riddim" name="riddim" remote="lime" />
   
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="lime" />
