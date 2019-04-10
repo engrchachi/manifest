@@ -1,3 +1,5 @@
+![Asam](https://github.com/AospLime/manifest/raw/pie/lime.jpg)
+
 AospLime ROM
 =====
 
