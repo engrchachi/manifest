@@ -42,7 +42,7 @@
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="lime" />
   <project path="frameworks/base" name="frameworks_base" remote="lime" />
-  <project path="frameworks/havoc" name="frameworks_havoc" remote="lime-wip" />
+  <project path="frameworks/havoc" name="frameworks_havoc" remote="lime" />
   <project path="frameworks/native" name="frameworks_native" remote="lime" />
   <project path="frameworks/opt/net/voip" name="frameworks_opt_net_voip" remote="pixel" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="lime" />
@@ -73,7 +73,7 @@
 
   <!-- Hardware repos -->
   <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="pixel" />
-  <project path="hardware/custom/keydisabler" name="hardware_custom_keydisabler" remote="pixel" />
+  <project path="hardware/custom/keydisabler" name="hardware_custom_keydisabler" remote="lime" />
   <project path="hardware/interfaces" name="hardware_interfaces" remote="lime" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="pixel" />
   <project path="hardware/ril" name="hardware_ril" remote="lime" />
