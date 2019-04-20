@@ -9,6 +9,9 @@
   <remote name="pixel-devices"
           fetch="https://github.com/PixelExperience-Devices"
           revision="pie" />
+   <remote name="aosplime-devices"
+          fetch="https://github.com/aospime-Devices"
+          revision="pie" />
           
   <remote name="lime"
           fetch="https://github.com/AospLime"
